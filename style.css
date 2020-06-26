@@ -16414,6 +16414,9 @@ p.bk_pra {
 /*==========================
 List Area 
 ===========================*/
+.noHover{
+  pointer-events: none;
+}
 .bk-list .list-header {
   padding-left: 36px; }
   .bk-list .list-header .marker {
